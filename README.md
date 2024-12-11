@@ -1,7 +1,7 @@
 # Studiewijzer
 <!--REF\label{/syllabus}-->
 
-## Data Analyse en Statistiek, Januari 2024
+## Data Analyse en Statistiek, Januari 2025
 
 
 Welkom bij het vak Data Analyse en Statistiek. In dit vak leer je de basisprincipes van statistiek en deze toe te passen op realistische gemodelleerde datasets. 

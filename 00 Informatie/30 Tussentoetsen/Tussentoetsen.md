@@ -10,7 +10,7 @@ Hieronder vind je het schema voor DAS 23/24.
 
 | tussentoets |  1 | 2 | 3 |
 |------|-------|------|------|
-|  | di 16 jan 10:00-10:25 | di 23 jan 10:00-10:25 | di 30 jan 10:00-10:25 |
+|  | di 14 jan 10:00-10:25 | di 21 jan 10:00-10:25 | di 28 jan 10:00-10:25 |
 
 <!-- | datum | di 18 jan | di 25 jan | di 1 feb |-->
 

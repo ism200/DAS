@@ -19,12 +19,12 @@ Voor het inleveren van de opgaves maak je gebruik van templates die je vindt bij
 **Let hierbij even op**, je moet steeds een ingevuld template **als pdf inleveren** en de code van alle opdrachten van de module. [Hier vind je een instructie voor het uploaden](https://das.proglab.nl/course/00%20Informatie/20%20Inleveropdrachten/ANSInstructie.pdf) . 
 
 
-**De deadlines van de inleveropdrachten voor DAS 23/24:**
+**De deadlines van de inleveropdrachten voor DAS 24/25:**
 
 |     | Module 1 | Module 2 | Module 3 | Module 4 |
 |------|-------|--------|--------|--------|
 | Werkcolleges | LC 1, LC 2 | LC 3, LC 4 | LC 5, LC 6 | LC 7 | 
-| Deadlines | vr 12 jan 18:00 | vr 19 jan 18:00 | vr 26 jan 18:00 | vr 2 feb 18:00 |
+| Deadlines | vr 10 jan 18:00 | vr 17 jan 18:00 | vr 24 jan 18:00 | vr 31 jan 18:00 |
 | Gewicht| 1 | 1 | 1 | 1 |
 
 

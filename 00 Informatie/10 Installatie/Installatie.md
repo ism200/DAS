@@ -52,17 +52,18 @@ Als je nog geen Anaconda hebt geïnstalleerd, doe dat dan eerst met de instructi
 
 ### Een nieuwe python/editor installatie
 
-Volg deze instructie alleen als je nog geen Anaconda of editor hebt geïnstalleerd.
+Als het goed is heb je in het eerste periode het vak Inleiding programmeren gevolgd. Als het goed is zou alles goed moeten werken en kan je terug naar boven gaan om een DAS omgeving te creëren. Volg deze instructie dus alleen als je nog geen Anaconda of editor hebt geïnstalleerd.
 
 #### Stap 1: Anaconda
 
 Dit pakket kunt je downloaden op de [website](https://www.anaconda.com/products/distribution). 
 Kies daar voor de “Anaconda Individual Edition”. De download is vrij groot, het kan dus even duren voordat het klaar is!
 
-Zodra de download klaar is, moet je het gedownloade bestand uitvoeren (dubbelklik?). Volg dan de installatieinstructies en kies waar nodig voor “Install for me only”; 
+Zodra de download klaar is, moet je het gedownloade bestand uitvoeren. Volg dan de installatieinstructies en kies waar nodig voor “Install for me only”; 
 
-**Let op: kies op Windows altijd de “advanced” installatie en kruis onderstaande vinkje aan! Als je dit niet hebt gedaan moet je het verwijderen en opnieuw installeren!**
+**Let op: het is belangrijk om het laatste venster (Advanced Installation Options) de tweede optie _Add Anaconda3 to my PATH environment variable_ aan te vinken! Het is aan te raden om alles aan te vinken**
 
+![Anaconda setup window](anacondasetupwindow.png){:width="50%"}<br>
 
 #### Stap 2: Visual Studio Code
 

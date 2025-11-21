@@ -1,8 +1,8 @@
-# Voorbereiding op tussentoets 3
+# Voorbereiding op deeltoets
 <!--REF\label{/tussentoets-iii/inhoud}-->
 
 
-Hieronder vind je een lijstje met de stof die je moet kennen.  Kijk ook naar de [oefenopgaves](/tussentoets-iii/oefenopgaves) die bij deze tussentoets horen.
+Hieronder vind je een **derde** lijstje met de stof die je moet kennen.  Kijk ook naar de [oefenopgaves](/tussentoets-iii/oefenopgaves) die bij de deeltoets horen.
 
 **Vergeet niet uit de opmerking uit de eerste week: 
 Weten (en dit consequent altijd toepassen) hoeveel significante cijfers je moet noteren.**

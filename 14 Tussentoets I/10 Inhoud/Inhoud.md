@@ -1,7 +1,7 @@
-# Voorbereiding op tussentoets 1
+# Voorbereiding op deeltoets
 <!--REF\label{/module-1/tussentoets-i/inhoud}-->
 
-Hieronder vind je een lijstje met de stof die je moet kennen. Kijk ook naar de [oefenopgaves](/tussentoets-i/oefenopgaves) die bij deze tussentoets horen.
+Hieronder vind je een eerste lijstje met de stof die je moet kennen. Kijk ook naar de [oefenopgaves](/tussentoets-i/oefenopgaves) die bij de deeltoets horen.
 <!-- Hier commenten -->
 
 ## Stof checklist

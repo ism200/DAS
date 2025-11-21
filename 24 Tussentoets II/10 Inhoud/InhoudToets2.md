@@ -1,7 +1,7 @@
-# Voorbereiding op tussentoets 2
+# Voorbereiding op deeltoets
 <!--REF\label{/tussentoets-ii/inhoud}-->
 
-Hieronder vind je een lijstje met de stof die je moet kennen. Gebruik deze om te kijken of je alle stof hebt bestudeerd. Kijk ook naar de [oefenopgaves](/tussentoets-ii/oefenopgaves) die bij deze tussentoets horen.
+Hieronder vind je een **tweede** lijstje met de stof die je moet kennen. Gebruik deze om te kijken of je alle stof hebt bestudeerd. Kijk ook naar de [oefenopgaves](/tussentoets-ii/oefenopgaves) die bij de deeltoets horen.
 
 **Vergeet niet uit de opmerking uit de eerste week: 
 Weten (en dit consequent altijd toepassen) hoeveel significante cijfers je moet noteren.**

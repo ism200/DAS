@@ -9,3 +9,4 @@ Deze telt voor 50% mee voor je eindcijfer. <br>
 [ANS instructie](https://www.youtube.com/watch?v=jWgdlNEHN2A) --->
 
 Om je voor te bereiden op de deeltoets hebben we oefenvragen gemaakt die je kunt gebruiken om te controleren of je de stof voldoende beheerst. Let op dat je ook de stof checklist even bekijkt, niet voor alle onderwerpen zijn opdrachten. Je vindt deze in het menu onder **Tussentoets I, II en III**. 
+Je kennis van de theorie wordt getoetst mbv multiple choice vragen over de stof. Je praktische vaardigheden worden getoetst met een aantal case studies die je maakt mbv een GUI in RStudio.

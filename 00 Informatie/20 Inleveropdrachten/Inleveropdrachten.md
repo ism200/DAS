@@ -21,7 +21,7 @@ Voor het inleveren van de opgaves maak je gebruik van templates die je vindt bij
 **De deadlines van de inleveropdrachten voor DAS 25/26:**
 
 |     | Module 1 | Module 2 | Module 3 en 4 |
-|------|-------|--------|--------|--------|
+|------|-------|--------|--------|
 | Werkcolleges | LC 1, LC 2 | LC 3, LC 4 | LC 5, LC 6 |  
 | Deadlines | vr 9 jan 18:00 | vr 16 jan 18:00 | vr 23 jan 18:00 |
 | Gewicht| 1 | 1 | 1 | 

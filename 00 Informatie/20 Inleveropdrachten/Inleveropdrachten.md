@@ -15,7 +15,7 @@ De inleveropdrachten tellen voor 50% mee voor je eindcijfer.<br>
 
 **Inleveren laptopcollege opdrachten**<br>
 Voor het inleveren van de opgaves maak je gebruik van templates die je vindt bij de instructies van de opgaves. Hier kun je alle resultaten en code invullen. Het werk kun je vervolgens op [ANS](https://ans.app) inleveren. 
-**Let hierbij even op**, je moet steeds een ingevuld template **als pdf inleveren** en de code van alle opdrachten van de module. [Hier vind je een instructie voor het uploaden](00%20Informatie/20%20Inleveropdrachten/ANSInstructie.pdf) . 
+**Let hierbij even op**, je moet steeds een ingevuld template **als pdf inleveren** en de code van alle opdrachten van de module. [Hier vind je een instructie voor het uploaden](ANSInstructie.pdf) . 
 
 
 **De deadlines van de inleveropdrachten voor DAS 25/26:**

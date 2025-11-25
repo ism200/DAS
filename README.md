@@ -13,7 +13,7 @@ Dit vak bestaat uit 5 hoorcolleges en 6 laptopcolleges. Voor het cijfer tellen d
 In dit vak gaan we aan de slag met opdrachten waarbij we python programmas gebruiken.
 Bereid je vast voor op dit vak door te zorgen dat python goed geïnstalleerd is en dat je je kennis hierover even opfrist.<br>
 Bijvoorbeeld: Zorg dat je weet hoe 'for' loops werken en hoe je een functie definieert. <br>
-Voor de installatie zelf kun je de [instructies](00%20Informatie/10%20Installatie/Installatie.md) volgen. Als het test programmaatje werkt zonder foutmeldingen, dan kun je straks meteen aan de slag.<br>
+Voor de installatie zelf kun je de [instructies](https://das.proglab.nl/informatie/installatie) volgen. Als het test programmaatje werkt zonder foutmeldingen, dan kun je straks meteen aan de slag.<br>
 
 
 #### Docenten
@@ -30,10 +30,10 @@ In hoorcolleges bespreekt de docent de theorie van Data analyse en Statistiek wa
 
 #### Inleveropdrachten
 Tijdens de *laptopcolleges* werk je aan de inlever opdrachten die horen bij dit vak. Deze opdrachten moet je ook inleveren voor een cijfer. Voor de opdrachten van elke module is een deadline. Als je deze deadline niet haalt trekken we **2 punten van het cijfer voor de opdracht per werkdag af**. Aanwezigheid op de laptopcolleges is verplicht, tenzij het werk voor die module al is ingeleverd via ANS.<br>
-Informatie over de inleveropdrachten vind je [hier](/00%20Informatie/20%20Inleveropdrachten/Inleveropdrachten.md). Het gemiddelde van de drie inleveropdrachten bepaalt 50% van het eindcijfer. Om voor de herkansing in aanmerking te komen dienen alle inleveropdrachten te zijn ingeleverd.
+Informatie over de inleveropdrachten vind je [hier](https://das.proglab.nl/informatie/inleveropdrachten). Het gemiddelde van de drie inleveropdrachten bepaalt 50% van het eindcijfer. Om voor de herkansing in aanmerking te komen dienen alle inleveropdrachten te zijn ingeleverd.
 
 #### Deeltoets
-In week 4 vindt een deeltoets plaats. Deze deeltoets bepaalt 50% van het eindcijfer. Meer informatie over de deeltoets vind je [hier](/00%20Informatie/30%20Tussentoetsen/Tussentoetsen.md). 
+In week 4 vindt een deeltoets plaats. Deze deeltoets bepaalt 50% van het eindcijfer. Meer informatie over de deeltoets vind je [hier](https://das.proglab.nl/informatie/tussentoetsen). 
 
 #### Boeken
 Er zijn geen boeken benodigd voor deze cursus. Wil je de stof een keer op een andere manier benaderen, dan vind je in het volgende boek wellicht wat je zoekt:

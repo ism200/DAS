@@ -68,7 +68,7 @@ for line in f:
         line += '\\vspace{0.15\\textheight}'    
         line += '{\\center\\Huge\\bfseries {Data Analyse en Statistiek}} \\\\ [3\\baselineskip]\n'
         line += '{\\center\\huge\\bfseries {Bachelor Natuur- en Sterrenkunde}} \\\\ [3\\baselineskip]\n'
-        line += '{\\center\\huge\\bfseries studiejaar 2023-2024} \\\\ [3\\baselineskip]\n'
+        line += '{\\center\\huge\\bfseries studiejaar 2025-2026} \\\\ [3\\baselineskip]\n'
         line += '\\vspace{0.33\\textheight} \\\\ [3\\baselineskip] \\newline\n'
         line += '{\\filleft\\includegraphics[width=450pt]{logoVUvA.jpeg}}}}'
         line += '\\endgroup}\n'
@@ -76,7 +76,7 @@ for line in f:
         line += '\\begin{document}\n'
         line += '\\thispagestyle{empty}\n' 
         line += '\\titleGM\n'
-        line += '\\parbox[b]{\\textwidth}{ \\vspace{0.8\\textheight}\\textbf{dr H.L. Snoek en M.F.L. Schut MSc} \\\\  \\tiny{2024.v1 }} \n'
+        line += '\\parbox[b]{\\textwidth}{ \\vspace{0.8\\textheight}\\textbf{dr H.L. Snoek en M.F.L. Schut MSc} \\\\  \\tiny{2026.v1 }} \n'
         line += '\\tableofcontents\\newpage\n'
 
     if (line.count("begin{quote")) : 

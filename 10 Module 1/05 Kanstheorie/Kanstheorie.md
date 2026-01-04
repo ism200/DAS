@@ -57,13 +57,13 @@ $$\displaystyle{P(4) = lim_{n \to \infty} \frac{\text{uitkomst is 4}}{\text{tota
 Hoe vaker we de dobbelsteen gooien des te nauwkeuriger kunnen we de kans dat we een 4 gooien, bepalen.
 
 
-De Frequentist definitie voor kans is een goede manier om kansen te berekenen. Het kent echter twee grote beperkingen. De eerste is dat we eigenlijk nooit een oneindig aantal metingen kunnen doen. Dit is goed te benaderen door gewoon een heel groot aantal metingen te doen. De tweede beperking is dat niet alle experimenten herhaalbaar zijn. 
+De Frequentist definitie voor kans is een goede manier om kansen te berekenen. Zij kent echter twee grote beperkingen. De eerste is dat we eigenlijk nooit een oneindig aantal metingen kunnen doen. Dit is goed te benaderen door gewoon een heel groot aantal metingen te doen. De tweede beperking is dat niet alle experimenten herhaalbaar zijn. 
 
 
 ### Frequentist versus Bayesiaanse methode
 Het zal je dan misschien niet verbazen dat er nog een andere methode bestaat die wel werkt voor experimenten die niet herhaalbaar zijn of een beperkte statistiek hebben. Deze manier noemen we ook wel de Bayesiaanse (spreek uit: Beej-sie-jaanse) methode (Engels: Bayesian). 
 
-De frequentist methode wordt in het algemeen als objectieve methode gezien en de Bayesiaanse methode een subjectieve manier. Het geeft aan wat je denkt dat de waarschijnlijkheid is. Dat klinkt misschien niet erg wetenschappelijk maar in de praktijk is dit misschien wel de meest gebruikte methode. Vooral omdat je hem ook kan gebruiken als het experiment niet herhaalbaar is. De bayesiaanse methode zegt eigenlijk dat je nooit helemaal zeker kunt stellen wat de grootte van een kans is. Dat voelt misschien wat gek, maar het enige wat het zegt is dat ook bij een berekende kanswaarde er een mate van onzekerheid is. Ook daar is er sprake van een 'meetonzekerheid'.
+De frequentist methode wordt in het algemeen als objectieve methode gezien en de Bayesiaanse methode als een subjectieve methode. Het geeft aan wat je denkt dat de waarschijnlijkheid is. Dat klinkt misschien niet erg wetenschappelijk maar in de praktijk is dit misschien wel de meest gebruikte methode. Vooral omdat je hem ook kan gebruiken als het experiment niet herhaalbaar is. De bayesiaanse methode zegt eigenlijk dat je nooit helemaal zeker kunt stellen wat de grootte van een kans is. Dat voelt misschien wat gek, maar het enige wat het zegt is dat ook bij een berekende kanswaarde er een mate van onzekerheid is. Ook daar is er sprake van een 'meetonzekerheid'.
 
 
 > **Een voorbeeld** In een wielerronde staat een bergklassieker op het programma van vandaag. De wedstrijd is nog niet gestart. Er staan twee sterke renners,  Verstappen en Onana, op de gedeelde eerste plaats van het klassement en de voorsprong met de derde wielrenner is meer dan 20 minuten. Het lijkt dus waarschijnlijk dat aan het einde van de dag Verstappen of Onana op de eerste plaats in het klassement zal staan. Op bergetappes wint Onana 9 van de 10 keer met een flinke voorsprong van Verstappen. Wie denk je dat er vandaag wint? <br><br>
@@ -87,7 +87,7 @@ Wat in elk geval belangrijk is, is om altijd heel precies te vermelden wat de vo
 Er zijn een paar basisregels waar kansen aan voldoen. 
 
 1. **Behoud van kans:** <a name =BehoudKans></a>
-Een gebeurtenis, $$A$$, kan plaatsvinden, of het kan niet plaatsvinden. De kans is behouden en dat betekent dat: <br>
+Een gebeurtenis, $$A$$, kan plaatsvinden, of zij kan niet plaatsvinden. De kans is behouden en dat betekent dat: <br>
 $$ P(A) + P(\text{niet A}) = 1$$<br>
 
 2. **Complementregel:** <a name="ComplementRegel"></a>
@@ -101,16 +101,16 @@ Als de uitkomsten $$A$$ en $$B$$ *wederzijds uitsluitend* zijn, ofwel als $$A$$ 
 $$P(A\text{ of }B) \equiv P(A \cup B) = P(A) + P(B).$$<br>
 We mogen in dit geval de kansen dus optellen.
 4. **De *en* regel**: <a name="EnRegel"></a>
-Als de uitkomsten $$A$$ en $$B$$ onafhankelijk zijn, dus als je $$A$$ een uitkomst is dan zegt dat niets over de kans op $$B$$, dan geldt: <br>
+Als de uitkomsten $$A$$ en $$B$$ onafhankelijk zijn, dus als $$A$$ een uitkomst is dan zegt dat niets over de kans op $$B$$, dan geldt: <br>
 $$P(A\text{ en }B) = P(A) \cdot P(B).$$<br>
 
 
 We gaan voor elk van deze regels een voorbeeld geven. We kijken hiervoor naar een kaartendek.
 De uitkomstenverzameling van een kaartendek is: <br><br>
-{<span style="color:red">1♥,2♥,3♥,4♥,5♥,6♥,7♥,8♥,9♥,H♥,D♥,K♥,A♥,<br>
-1♦,2♦,3♦,4♦,5♦,6♦,7♦,8♦,9♦,H♦,D♦,K♦,A♦,</span><br>
-1♠,2♠,3♠,4♠,5♠,6♠,7♠,8♠,9♠,H♠,D♠,K♠,A♠,<br>
-1♣,2♣,3♣,4♣,5♣,6♣,7♣,8♣,9♣,H♣,D♣,K♣,A♣}<br><br>
+{<span style="color:red">2♥,3♥,4♥,5♥,6♥,7♥,8♥,9♥,10♥,J♥,Q♥,K♥,A♥,<br>
+2♦,3♦,4♦,5♦,6♦,7♦,8♦,9♦,10♦,J♦,Q♦,K♦,A♦,</span><br>
+2♠,3♠,4♠,5♠,6♠,7♠,8♠,9♠,10♠,J♠,Q♠,K♠,A♠,<br>
+2♣,3♣,4♣,5♣,6♣,7♣,8♣,9♣,10♣,J♣,Q♣,K♣,A♣}<br><br>
 Dit zijn in totaal 52 kaarten verdeeld over 2 kleuren: rood en zwart. We trekken in de volgende voorbeelden steeds 1 kaart.
 
 > **Voorbeeld 1 - behoud van kans/complement regel:** <br>

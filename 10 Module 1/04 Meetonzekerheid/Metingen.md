@@ -50,34 +50,34 @@ De tweede categorie onzekerheden hebben een andere oorzaak. De grootheid zelf ka
 
 * **De lengte van een blokje hout.** Stel dat we de nauwkeurigheid van de lengtemeting helemaal onder controle hebben, dan kan het nog steeds zo zijn dat het blokje zelf niet overal precies dezelfde lengte heeft. Vooral bij houten blokjes zal er zo nu en dan variatie in zitten door nerven en knoesten.
 
-* **De levensduur van Cesium-131.** Kwantummechanische kans processen spelen hier een grote rol. De kans dat een Cesium-131 vervalt binnen een bepaalde tijd is volkomen gedreven door de kwantummechanica (anders zouden ze natuurlijk allemaal tegelijk vervallen). Deze onzekerheid resulteert uiteindelijk in een variatie in het aantal tellingen dat je in een van de tijdsintervallen meet. Deze onzekerheid volgt de Poisson statistiek, waar we later meer over zullen lezen.
+* **De levensduur van Cesium-131.** Kwantummechanische kans processen spelen hier een grote rol. De kans dat een Cesium-131 vervalt binnen een bepaalde tijd is volkomen gedreven door de kwantummechanica (anders zouden ze natuurlijk allemaal tegelijk vervallen). Deze onzekerheid resulteert uiteindelijk in een variatie in het aantal vervallen dat je in een van de tijdsintervallen telt. Deze onzekerheid volgt de Poisson statistiek, waar we later meer over zullen lezen.
 
-* **Het aantal sterren in een bolhoop.** Een van de methodes om het aantal sterren te meten in een bolhoop berust op het meten van de dichtheid. Deze dichtheid neemt meestal af over de straal van de bolhoop. In de berekeningen ga je er meestal van uit dat dit homogeen afneemt. Dat wil zeggen dat op een afstand *r* van het centrum van de bolhoop overal dezelfde dichtheid voorkomt. In het echt zijn er fluctuaties in de dichtheid. De fluctuaties zorgen uiteindelijk ook voor een onzekerheid in de telling.
+* **Het aantal sterren in een bolhoop.** Een van de methodes om het aantal sterren te meten in een bolhoop berust op het meten van de dichtheid. Deze dichtheid neemt meestal af over de straal van de bolhoop. In de berekeningen ga je er meestal van uit dat die homogeen afneemt. Dat wil zeggen dat op een afstand *r* van het centrum van de bolhoop overal dezelfde dichtheid voorkomt. In het echt zijn er fluctuaties in de dichtheid. De fluctuaties zorgen uiteindelijk ook voor een onzekerheid in de telling.
 
-* **De snelheid van het licht.** Ook hier spelen kans processen een rol. Als je opstelling een roterend radartje bevat, dan zijn er hoogstwaarschijnlijk variaties in de tanden van het radartje. Kijk bijvoorbeeld naar het experiment dat [hier](https://en.wikipedia.org/wiki/Fizeau%E2%80%93Foucault_apparatus) beschreven staat.
+* **De snelheid van het licht.** Ook hier spelen kans processen een rol. Als je opstelling een roterend radertje bevat, dan zijn er hoogstwaarschijnlijk variaties in de tanden van het radertje. Kijk bijvoorbeeld naar het experiment dat [hier](https://en.wikipedia.org/wiki/Fizeau%E2%80%93Foucault_apparatus) beschreven staat.
 
 
 ## Reduceren van meet-onnauwkeurigheden
 Goed nadenken over de opzet van een experiment is belangrijk en kan grote onnauwkeurigheden voorkomen. Nog belangrijker is het om alle onzekerheden goed in kaart te brengen. Alleen zo kun je inschatten wat de waarde is van een meting. 
 
-Een voorbeeld is een keukeninstallateur die een werkblad voor een keuken moet opleveren. De installateur zal een goede meting moeten doen van de lengte van het werkblad die hij nodig heeft. Als hij een werkblad aanlevert dat uiteindelijk 2 cm te kort is, past het blad niet, dit is niet meer op te vullen met een kit randje. Als het keukenblad 3 mm te lang is zal het natuurlijk ook niet passen.
+Een voorbeeld is een keukeninstallateur die een werkblad voor een keuken moet opleveren. De installateur zal een goede meting moeten doen van de lengte van het werkblad dat hij nodig heeft. Als hij een werkblad aanlevert dat uiteindelijk 2 cm te kort is, past het blad niet, dit is niet meer op te vullen met een kit randje. Als het keukenblad 3 mm te lang is zal het natuurlijk ook niet passen.
 
 Zo werkt het ook bij natuur- en sterrenkundige experimenten. Als je een meting wilt doen, zal je eerst goed moeten kijken hoe nauwkeurig het resultaat moet zijn. Wil je een hypothese weerleggen die voorspelt dat een hyperfijnstructuur in de spectraallijn van een atoom 1 nm vergroot, dan zal je ook de nauwkeurigheid moeten bereiken om dat te kunnen meten. 
 
 We onderscheiden **systematische onzekerheid**, **statistische onzekerheid** en **theoretische onzekerheid**. 
 
 **Systematische onzekerheden** hangen af van de meetopstelling en zijn niet te voorkomen. We kunnen hem soms wel reduceren door de meetopstelling te verbeteren. Een enkele bron van een systematische fout is eenzijdig, dat wil zeggen dat de gemeten waarde consequent te hoog of te laag uitvalt door bijvoorbeeld kalibratie fouten van de meetinstrumenten. Vaak zijn er in een experiment combinaties van systematische onzekerheden waardoor de gemeten waarde zowel te hoog als te laag kan uitvallen. 
-Systematische onzekerheden zijn lastig te vinden in opstellingen en zijn vooral te voorkomen door kritisch te kijken en na te denken over de meetopstelling. Een systematische fout kunnen we bijvoorbeeld verbeteren door het blokje hout uit het voorbeeld met een schuifmaat te meten, zo kunnen we de meetonzekerheid verkleinen tot een tiende van een millimeter. We kunnen zorgen dat de tanden van de radartjes uit het voorbeeld van de meting van de lichtsnelheid heel gelijk zijn. 
+Systematische onzekerheden zijn lastig te vinden in opstellingen en zijn vooral te voorkomen door kritisch te kijken en na te denken over de meetopstelling. Een systematische fout kunnen we bijvoorbeeld verbeteren door het blokje hout uit het voorbeeld met een schuifmaat te meten, zo kunnen we de meetonzekerheid verkleinen tot een tiende van een millimeter. We kunnen zorgen dat de tanden van de radertjes uit het voorbeeld van de meting van de lichtsnelheid gelijk zijn. 
 
-**Statistische onzekerheden** zijn reduceerbaar door het experiment te herhalen. Bijvoorbeeld kunnen we tijdens een langer interval het aantal tellingen meten in het Cesium-131 levensduur experiment. Ook kunnen we meer meetpunten verzamelen. De relatieve fout op de telling zal dan kleiner worden en daarmee ook de uiteindelijk onzekerheid op de levensduur meting. 
+**Statistische onzekerheden** zijn reduceerbaar door het experiment te herhalen. Bijvoorbeeld kunnen we tijdens een langer interval het aantal vervallen tellen in het Cesium-131 levensduur experiment. Ook kunnen we meer meetpunten verzamelen. De relatieve fout op een telling zal dan kleiner worden en daarmee ook de uiteindelijke onzekerheid op de levensduur meting. 
 
 **Theoretische onzekerheden** kunnen voorkomen als we gebruik maken van aannames met theoretische grondslag. Als we de onzekerheden in deze aannames kunnen kwantificeren hebben we een maat voor de theoretische onzekerheid. Soms kunnen theoretische onzekerheden worden verkleind door bijvoorbeeld meer berekeningen uit te voeren. 
 
 
 ## Onderliggende verdelingen
 
-Je begrijpt nu dat veel metingen wel herhaalbaar zijn, maar dat je niet altijd precies dezelfde resultaat verwacht te meten. Het gevolg hiervan is dat je een verdeling of distributie krijgt van je meetresultaten. 
-Van deze verdeling kunnen we bepaalde eigenschappen uitrekenen. Meer hierover kun je vinden in het hoofdstuk [basisbegrippen](/module-1/basisbegrippen). Als je de onderliggende verdeling zou kennen (soms is dat zo, maar soms ook niet) dan hoor de meetonzekerheid overeen te komen met de standaardafwijking van de onderliggende verdeling van resultaten.
+Je begrijpt nu dat veel metingen wel herhaalbaar zijn, maar dat je niet altijd precies hetzelfde resultaat verwacht te meten. Het gevolg hiervan is dat je een verdeling of distributie krijgt van je meetresultaten. 
+Van deze verdeling kunnen we bepaalde eigenschappen uitrekenen. Meer hierover kun je vinden in het hoofdstuk [basisbegrippen](/module-1/basisbegrippen). Als je de onderliggende verdeling zou kennen (soms is dat zo, maar soms ook niet) dan hoort de meetonzekerheid overeen te komen met de standaardafwijking van de onderliggende verdeling van resultaten.
 Het is belangrijk om de verdelingen goed te presenteren, meer daarover kun je [hier](/module-1/data-visualiseren) lezen. 
 
 

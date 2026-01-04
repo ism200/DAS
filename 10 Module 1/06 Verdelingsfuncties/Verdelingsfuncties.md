@@ -10,8 +10,8 @@ Om over kansverdelingen te kunnen leren moeten we eerst weten wat stochasten zij
 
 
 ## Wat is een stochast?
-Een **stochast** is een (meetbare) variabele waarvan de waarde van een kans proces afhangt. Bijvoorbeeld de uitkomst van het trekken van een kaart, dan is het getrokken kaart (de uitkomst van de trekking) een stochast. Je weet van tevoren niet welke kaart je gaat trekken en daarom is de uitkomst *stochastisch*.
-Of als je een met een dobbelsteen gooit dan is de uitkomst van de worp een stochast. Het Engelse woord (random variable) is misschien bekender. 
+Een **stochast** is een (meetbare) variabele waarvan de waarde van een kans proces afhangt. Bijvoorbeeld de uitkomst van het trekken van een kaart, dan is de getrokken kaart (de uitkomst van de trekking) een stochast. Je weet van tevoren niet welke kaart je gaat trekken en daarom is de uitkomst *stochastisch*.
+Of als je met een dobbelsteen gooit dan is de uitkomst van de worp een stochast. Het Engelse woord (random variable) is misschien bekender. 
 
 ## Kansdichtheidsfuncties
 Stochasten zijn een handig middel bij het beschrijven van experimenten. We gaan hieronder een aantal vaak voorkomende distributies van stochastische variabelen bekijken. De distributies laten zien wat de kans is dat een bepaalde stochastische waarde wordt gevonden. Het is dus een verdeling van kansen. Deze verdelingen noemen we **kansdichtheidsfuncties** (Engels: probability density function of PDF). Een kansdichtheidsfunctie, $$f(x)$$, zegt dat de kans dat een variabele $$x$$ gevonden wordt in een gebied $$[x,x+dx]$$ gelijk is aan $$f(x)dx$$. <br>
@@ -40,7 +40,7 @@ Voor **continue** verdelingen maak je gebruik van de volgende vergelijkingen:<br
 
 
 
-**NB** Herinner je nog het verschil tussen parameters (voor de kenmerken van een populatie) en statistieken (voor de kenmerken van een steekproef). Afhankelijk van wat we beschrijven zijn verschillende schrijfwijze voor het gemiddelde $$\mu, \bar{x}$$ en $$E(x)$$. Het symbool $$\mu$$ is meestal voorbehouden aan het gemiddelde van de populatie, dat wil zeggen het *echte* gemiddelde. Het gemiddelde van de steekproef is $$\bar{x}$$, je hoopt dus dat die dicht bij het populatie gemiddelde $$\mu$$ ligt. De verwachtingswaarde $$E(x)$$ is de waarde die je verwacht te gaan meten. Deze kan je met simulaties benaderen. De verschillen worden pas echt duidelijk als je er al een tijdje mee werkt. We zullen het niet fout rekenen als je een vergissing maakt in de notatie, maar we proberen het hier wel netjes op te schrijven. 
+**NB** Herinner je nog het verschil tussen parameters (voor de kenmerken van een populatie) en statistieken (voor de kenmerken van een steekproef). Afhankelijk van wat we beschrijven zijn verschillende schrijfwijze voor het gemiddelde $$\mu, \bar{x}$$ en $$E(x)$$. Het symbool $$\mu$$ is meestal voorbehouden aan het gemiddelde van de populatie, dat wil zeggen het *echte* gemiddelde. Het gemiddelde van de steekproef is $$\bar{x}$$, je hoopt dus dat dit dicht bij het populatie gemiddelde $$\mu$$ ligt. De verwachtingswaarde $$E(x)$$ is de waarde die je verwacht te gaan meten. Deze kan je met simulaties benaderen. De verschillen worden pas echt duidelijk als je er al een tijdje mee werkt. We zullen het niet fout rekenen als je een vergissing maakt in de notatie, maar we proberen het hier wel netjes op te schrijven. 
 In deze vergelijkingen is het in elk geval ook gewoon handiger om $$E(x)$$ of $$\bar{x}$$ te schrijven.  $$E(x)^2$$ is, net als $$\bar{x}^2$$, het kwadraat van de verwachtingswaarde van $$x$$. $$E(x^2)$$ is, net als $$\overline{~x^2}$$ de verwachtingswaarde van $$x^2$$. 
 
 
@@ -87,7 +87,7 @@ $$E(k) = np$$
 en 
 $$\sigma = \sqrt{npq}$$.
 
-> **Voorbeeld** Stel dat we een oneindige grote verzameling knikkers hebben waarvan  30% gele knikkers, alle andere knikkers zijn rood gekleurd. Als we een enkele knikker trekken hebben we dus precies 30% kans ($$p=0.3$$) dat dit een gele knikker is. <br>
+> **Voorbeeld** Stel dat we een oneindig grote verzameling knikkers hebben waarvan  30% gele knikkers, alle andere knikkers zijn rood gekleurd. Als we een enkele knikker trekken hebben we dus precies 30% kans ($$p=0.3$$) dat dit een gele knikker is. <br>
 > Als we twee knikkers trekken hebben we een kans van $$0.3\cdot 0.3 = 0.09$$ dat we precies twee gele knikkers hebben getrokken. Immers heeft de eerste trekking geen invloed op de tweede trekking en zijn de twee trekkingen onafhankelijk. We mogen dus de 'en'-regel gebruiken.  
 > We hebben een kans van $$(1-0.3 \times 0.3) = 0.91$$ dat we minstens 1 rode knikker hebben, hier gebruiken we de complement regel.  
 > De kans dat we twee rode knikkers hebben (en dus geen gele knikkers) is <br>
@@ -105,7 +105,7 @@ $$\sigma = \sqrt{npq}$$.
 >  - 2 trekkingen, 2 gele knikkers: <br>
 > $$P(k;n,p) = p(2;2,0.3) = \frac{2!}{2! \cdot 0!} 0.3^2 \cdot 0.7^0 = 0.09$$
 > 
-> Deze kansen staan ook uitgedrukt in de gele lijn in de figuur hieronder.
+> Deze kansen staan ook uitgedrukt in de oranje lijn in de figuur hieronder.
 
 
 De binomiale verdeling is een discrete verdeling. Deze formule kunnen we niet toepassen op fractionele waardes. Dat is ook logisch want het Bernoulli experiment kunnen we niet een fractioneel aantal keer uitvoeren. De kansverdeling is asymmetrisch voor lage waardes van $$n$$ en wordt voor grotere waardes van $$n$$ steeds meer symmetrisch.
@@ -124,15 +124,15 @@ De Poisson is een discrete verdelingsfunctie die, in veel gevallen, de onzekerhe
 $${\displaystyle P(k;\lambda) =  \frac{\lambda^k e^{-\lambda}}{k!}}.$$
 
 De Poisson kent, in tegenstelling tot de binomiaal dus maar 1 parameter.
-De verwachtingswaarde van de Poisson vergelijking (het gemiddelde) is $$\lambda$$ en de variantie is ook $$\lambda$$. De onzekerheid op een stochast, als deze de Poisson statistiek volgt, is gelijk aan de standaardafwijking: $$\sigma = \sqrt{\text{var}} = \sqrt{\lambda}$$.
+De verwachtingswaarde van de Poisson verdeling (het gemiddelde) is $$\lambda$$ en de variantie is ook $$\lambda$$. De onzekerheid op een stochast, als deze de Poisson statistiek volgt, is gelijk aan de standaardafwijking: $$\sigma = \sqrt{\text{var}} = \sqrt{\lambda}$$.
 
-Het is dus een bijzondere vergelijking!
-In het figuur hier<!--FIG , Fig. \ref{fig:PoissonDistributie}--> zie hoe de Poisson distributie eruit ziet voor verschillende waardes van $$\lambda$$.
+Het is dus een bijzondere verdeling!
+In het figuur hier<!--FIG , Fig. \ref{fig:PoissonDistributie}--> zie je hoe de Poisson distributie eruit ziet voor verschillende waarden van $$\lambda$$.
 
 ![Poisson-verdeelde kansdichtheidsdistributie.](PoissonDistributie.png){:width="60%"}
 
-De Poisson verdeling is, net als de Binomiaal vergelijking asymmetrisch voor lage waardes van $$\lambda$$ en wordt steeds meer symmetrisch voor hogere waardes van $$\lambda$$. 
-Dat is ook geen toeval, de Poisson vergelijking is een speciale vorm van de Binomiaal. Als je hier meer over wilt weten kun je [dit](https://www.youtube.com/watch?v=eexQyHj6hEA) filmpje bekijken.
+De Poisson verdeling is, net als de Binomiaal verdeling asymmetrisch voor lage waardes van $$\lambda$$ en wordt steeds meer symmetrisch voor hogere waardes van $$\lambda$$. 
+Dat is ook geen toeval, de Poisson verdeling is een speciale vorm van de Binomiaal. Als je hier meer over wilt weten kun je [dit](https://www.youtube.com/watch?v=eexQyHj6hEA) filmpje bekijken.
 
 
 
@@ -142,19 +142,19 @@ Stochastische variabelen zijn Normaal-verdeeld (ook wel Gaussisch) als ze door d
 
 $${\displaystyle f(x) = \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2} }.$$
 
-De functie heeft twee parameters, $$\mu$$ en $$\sigma$$, de notering is niet toevallig. De verwachtingswaarde van de Normaalverdeling is precies $$\mu$$ en de standaardafwijking is precies $$\sigma$$. <!--Dat is zeker geen toevalligheid.--> 
+De functie heeft twee parameters, $$\mu$$ en $$\sigma$$, deze notatie is niet toevallig. De verwachtingswaarde van de Normaalverdeling is precies $$\mu$$ en de standaardafwijking is precies $$\sigma$$. <!--Dat is zeker geen toevalligheid.--> 
 
-Over de mathematische beginselen van de Normale verdelingsfunctie gaan we hier verder niet in. Het is wel goed om te weten dat de Normale verdelingsfunctie zonder twijfel de meest belangrijke functie is in de statische data analyse. De verdelingsfunctie komt erg vaak voor. Dat is geen toevalligheid, we zullen later in module 3 zien waarom dit zo is.
+Op de mathematische beginselen van de Normale verdelingsfunctie gaan we hier verder niet in. Het is wel goed om te weten dat de Normale verdelingsfunctie zonder twijfel de meest belangrijke functie is in de statische data analyse. De verdelingsfunctie komt erg vaak voor. Dat is geen toevalligheid, we zullen later in module 3 zien waarom dit zo is.
 
 
 
-In het figuur hier<!--FIG , Fig. \ref{fig:NormaleDistributie}--> zie je enkele voorbeelden van de Normale verdeling met verschillende waardes voor $$\mu$$ en $$\sigma$$. 
+In het figuur hier<!--FIG , Fig. \ref{fig:NormaleDistributie}--> zie je enkele voorbeelden van de Normale verdeling met verschillende waarden voor $$\mu$$ en $$\sigma$$. 
 
 ![Normaal-verdeelde kansdichtheidsverdelingen.](NormaleDistributie.png){:width="60%"}
 
 Het is goed om op te merken dat de Normaalverdeling een symmetrische continue verdeling is. Bij de Normaalverdeling zijn de meeste uitkomst waardes gegroepeerd rond het gemiddelde en hoe meer we van het gemiddelde afwijken, des kleiner de kans is dat we een meetwaarde aantreffen.
 
 
-Voorbeelden van Normaalverdelingen vinden we overal om ons heen. De verdeling van lichaamslengtes van mensen (of bijvoorbeeld olifanten), de grote van zandkorrels op een strand, de luminositeit van sterren in het melkwegstelsel. 
+Voorbeelden van Normaalverdelingen vinden we overal om ons heen. De verdeling van lichaamslengtes van mensen (of bijvoorbeeld olifanten), de grootte van zandkorrels op een strand, de luminositeit van sterren in het melkwegstelsel. 
 
 

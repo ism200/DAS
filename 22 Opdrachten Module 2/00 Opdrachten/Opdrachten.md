@@ -13,7 +13,7 @@ De antwoorden van de opdrachten moet je invoeren in [dit template](https://das.p
 
 Als je vragen hebt, stel deze dan aan de assistent of stuur een email naar de coördinator.
 
-Vergeet niet om ook even te kijken naar de [oefen opgaves](/tussentoets-ii/oefenopgaves) ter voorbereiding van de tweede tussentoets die aan het einde van het derde hoorcollege plaats vindt.
+Vergeet niet om ook even te kijken naar de [oefen opgaves](/tussentoets-ii/oefenopgaves) ter voorbereiding van de deeltoets.
 
 Veel succes! 
 

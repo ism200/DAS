@@ -1,7 +1,7 @@
 # Opdrachten Module 1
 <!--REF\label{/opdrachten-module-1/opdrachten}-->
 
-Tijdens de laptopcolleges in de eerste week werken we aan de vijf opdrachten van de eerste module.
+Tijdens de laptopcolleges in de eerste week werk je aan de vijf opdrachten van de eerste module.
 
 
 * [Eerste Histogram*](/opdrachten-module-1/mooiplotten)
@@ -20,7 +20,7 @@ De deadlines voor de inleveropdrachten en informatie over ANS kun je [hier](/inf
 
 Als je vragen hebt, stel deze dan aan de assistent of stuur een email naar de coördinator.
 
-Vergeet niet om ook even te kijken naar de [oefen opgaves](/tussentoets-i/oefenopgaves) ter voorbereiding van de eerste tussentoets die aan het einde van het tweede hoorcollege plaats vindt.
+Vergeet niet om ook even te kijken naar de [oefen opgaves](/tussentoets-i/oefenopgaves) ter voorbereiding van de deeltoets.
 
 Veel succes! 
 

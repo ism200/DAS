@@ -26,7 +26,7 @@ Het **complement** van $$A$$ wordt genoteerd met $$A^c$$ en is het deel van de u
 
 Bovenstaande definities kunnen we ook visueel weergeven in Venn diagrammen. <!--FIG Deze vind je in Fig. \ref{fig:Venn}.-->
 
-![Vier verschillende Venn diagrammen die verschillende deelgebieden weergeven in de uitkomstenverzameling $$\mathcal{U}$$. Linksboven $$(B)$$, rechtsboven $$(A \cup B)$$, linksonder $$(A \cap B)$$ en rechtsonder $$(A \cup B)^C$$](Venn.png){:width="80%"}
+![Vier verschillende Venn diagrammen die verschillende deelgebieden weergeven in de uitkomstenverzameling $$\mathcal{U}$$. Linksboven $$(B)$$, rechtsboven $$(A \cup B)$$, linksonder $$(A \cap B)$$ en rechtsonder $$(A \cup B)^c$$](Venn.png){:width="80%"}
 
 ## De of-regel wanneer A en B niet wederzijds uitsluitend zijn
 In het geval A en B niet wederzijds uitsluitend zijn dan geldt:  

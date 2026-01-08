@@ -4,7 +4,7 @@
 1. Ordered TOC
 {:toc}
 
-In [module 1](/module-1/kanstheorie) hebben we de complement-regel, de en-regel en de of-regel geleerd voor het rekenen met kansen. Aan deze regels waren enkele voorwaarden verbonden. 
+In [module I](/module-1/kanstheorie) hebben we de complement-regel, de en-regel en de of-regel geleerd voor het rekenen met kansen. Aan deze regels waren enkele voorwaarden verbonden. 
 
 De of-regel geldt alleen als de metingen A en B wederzijds uitsluitend zijn. Dat betekent dat een meting A niet kan voorkomen als B gemeten is. 
 
@@ -12,7 +12,7 @@ De of-regel geldt alleen als de metingen A en B wederzijds uitsluitend zijn. Dat
 > 
 > $$P(\text{rood of 4}) \neq P(\text{rood}) + P(4)$$
 
-We breiden de regels hier verder uit en gaan kijken naar het combineren van kansen die niet wederzijds uitsluitend zijn. We kijken ook naar het begrip conditionele kans en introduceren Bayes theorema die gebruikt kan worden om informatie van kansen om te rekenen. 
+We breiden de regels hier verder uit en gaan kijken naar het combineren van kansen die niet wederzijds uitsluitend zijn. We kijken ook naar het begrip conditionele kans en introduceren Bayes theorema dat gebruikt kan worden om informatie van kansen om te rekenen. 
 
 ## Begrippen
 

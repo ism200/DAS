@@ -34,7 +34,7 @@ $${\displaystyle cov(x,y) = \int_{-\infty}^{\infty}\int_{-\infty}^{\infty}x~y \c
 
 De covariantie geeft dus aan in hoeverre waarden van de ene grootheid toenemen/afnemen bij toenemende waarden van de andere grootheid. De covariantie is een heel nuttige maat maar lastig te interpreteren vanwege de dimensies die, net als bij de variantie, niet dezelfde zijn als de grootheden zelf. Eenvoudiger is om naar de correlatiecoëfficiënt $$\rho$$ te kijken. 
 
- [Hier](https://www.youtube.com/watch?v=KDw3hC2YNFc) kun je een filmpje zien die het begrip covariantie nogmaals uitlegt. 
+ [Hier](https://www.youtube.com/watch?v=KDw3hC2YNFc) kun je een filmpje zien dat het begrip covariantie nogmaals uitlegt. 
 
 
 ## Correlatie 

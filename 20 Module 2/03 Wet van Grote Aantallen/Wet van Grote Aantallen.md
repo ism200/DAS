@@ -14,7 +14,7 @@ $$\displaystyle{ E(X+Y)= E(X)+E(Y) }.$$
 Ofwel de verwachtingswaarde van de som is gelijk aan de verwachtingswaarde van $$X$$ plus de verwachtingswaarde van $$Y$$. 
 De verwachtingswaarde is de waarde die je verwacht te meten en is hier gelijk aan het verwachte steekproefgemiddelde. Dus
 
-$$\displaystyle{ E(X) = \frac{i}{n} \sum_i^n X_i}.$$
+$$\displaystyle{ E(X) = \frac{1}{n} \sum_i=1^n X_i}.$$
 
 We kunnen ook naar de spreiding van waardes van de som $$(X+Y)$$ kijken. 
 Als $$X$$ en $$Y$$ onafhankelijk zijn dan geldt ook:

@@ -30,7 +30,7 @@ Zoals je ziet hangt de $$\chi^2$$ kans ook af van een parameter $$\nu$$, dit is 
 
 $${\displaystyle \nu = \textrm{aantal meetpunten} - \textrm{aantal vrije parameters}.}$$
 
-Hoe meer meetpunten je gebruikt in je fit, des te groter de verwachte $$\chi^2$$, omdat er groter aantal waardes wordt gesommeerd. Het aantal gefitte parameters speelt ook een rol. Hoe meer *vrijheid* een functie heeft des te makkelijker het is om alle meetpunten nauwkeurig te beschrijven. 
+Hoe meer meetpunten je gebruikt in je fit, des te groter de verwachte $$\chi^2$$, omdat er een groter aantal waardes wordt gesommeerd. Het aantal gefitte parameters speelt ook een rol. Hoe meer *vrijheid* een functie heeft des te makkelijker het is om alle meetpunten nauwkeurig te beschrijven. 
 
 
 > **Voorbeeld: Bepalen van het aantal vrijheidsgraden.** Stel we hebben 10 meetwaardes en we gebruiken de kleinste kwadraten methode om 2 parameters van een functie $$f$$ te optimaliseren. We hebben dan $$\nu=10-2=8$$ vrijheidsgraden.
@@ -92,7 +92,7 @@ Stel dat je een dataset hebt waarvan je niet zeker weet door welke functie deze 
 
 
 
-Als de gereduceerde chi-kwadraat echter veel kleiner is dan 1 dan kun je betwijfelen of de bijbehorende functie wel echt de beste is. Je zou dan de waarde kunnen kiezen die het dichtste bij 1 bevindt. Maar de $$\chi^2$$ is niet helemaal symmetrisch en het kan zijn dat je dan toch de verkeerde keuze maakt. Dit is lastig in te schatten zonder de overschrijdingskansen exact uit te rekenen. 
+Als de gereduceerde chi-kwadraat echter veel kleiner is dan 1 dan kun je betwijfelen of de bijbehorende functie wel echt de beste is. Je zou dan de waarde kunnen kiezen die zich het dichtste bij 1 bevindt. Maar de $$\chi^2$$ is niet helemaal symmetrisch en het kan zijn dat je dan toch de verkeerde keuze maakt. Dit is lastig in te schatten zonder de overschrijdingskansen exact uit te rekenen. 
 
 Beter is om dan het Akaike Informatie Criterium te gebruiken om uit te vinden welke functie het beste aan een dataset fit. Stel dat je een dataset hebt waarbij je $$n$$ meetwaardes hebt die je beschreven hebt met een functie met $$p$$ vrije parameters met een geminimaliseerde $$\chi^2$$. Dan heeft het Akaike Informatie Criterium de volgende waarde: 
 

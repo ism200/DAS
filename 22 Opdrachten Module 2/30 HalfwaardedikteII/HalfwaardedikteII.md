@@ -19,7 +19,7 @@ $$d_{half} = $$ kleinste waarde van $$d$$ waarvoor geldt dat $$R = \frac{N_d}{N_
 
 We gaan het experiment nu 500 keer herhalen en kijken naar de distributie van de gevonden halfwaardediktes. Uit deze distributie bepalen we de standaardafwijking en gebruiken dit als onzekerheid op de gevonden dikte $$d_{half}$$.
 
-> - Schrijf een loop waarin je 500 maal een nieuwe dataset genereert. Uit elk van deze datasets bepaal je een de halfwaardedikte met de ratio-methode. Om 500 unieke dataset te maken moet je steeds de *seed* veranderen. Dat kan je doen door deze mee te geven aan de DAS dataset generator:
+> - Schrijf een loop waarin je 500 maal een nieuwe dataset genereert. Uit elk van deze datasets bepaal je de halfwaardedikte met de ratio-methode. Om 500 unieke dataset te maken moet je steeds de *seed* veranderen. Dat kan je doen door deze mee te geven aan de DAS dataset generator:
 > 	
 >		for j in range(0,500) : 
 >			counts, diktes = ds.DataSetHalfwaardeDikte(j)

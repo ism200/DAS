@@ -87,11 +87,11 @@ Kiezen we bijvoorbeeld een significantieniveau van $$\alpha=5\%$$ dan verwerpen 
 
 Hoe kleiner de vooraf gekozen waarde van $$\alpha$$ is, des te zekerder we ervan kunnen zijn dat we de nulhypothese rechtmatig verwerpen. In principe wil je het significantieniveau daarom zo laag mogelijk kiezen. Maar het kiezen van een zeer kleine waarde van $$\alpha$$ heeft ook een nadeel. Hoe de lager we het significantieniveau kiezen, hoe meer gegevens we nodig hebben om de nulhypothese te kunnen verwerpen. De onzekerheid op de gemeten waarde van de test-statistiek zullen we heel nauwkeurig moeten bepalen. Dit betekent dat je langer moet meten of meer tests moet uitvoeren. In sommige onderzoeken is dit een groter probleem dan in andere. 
 
-Denk maar eens aan de effectiviteit bepalen van een bepaald medicijn. Je moet dan veel patiënten vinden waar het medicijn voor zou moeten helpen. Als je de werking van paracetamol bij hoofdpijn wil onderzoeken is dit misschien geen groot probleem, maar wil je de werking van een medicijn testen die werkt bij een zeer zeldzame ziekte, dan is het gewoon erg lastig zo niet onmogelijk om hele grote groepen te testen. 
+Denk maar eens aan de effectiviteit bepalen van een bepaald medicijn. Je moet dan veel patiënten vinden waar het medicijn voor zou moeten helpen. Als je de werking van paracetamol bij hoofdpijn wil onderzoeken is dit misschien geen groot probleem, maar wil je de werking van een medicijn testen dat werkt bij een zeer zeldzame ziekte, dan is het gewoon erg lastig zo niet onmogelijk om hele grote groepen te testen. 
 
-Ook binnen de natuur- en sterrenkunde verschilt het nogal of je grote datasets kunt verkrijgen. In een experiment in de deeltjesfysica is het bijvoorbeeld relatief eenvoudig om een grote dataset te verkrijgen in een botsingsexperiment zoals op CERN en zo de onzekerheid op je test-statistiek te verkleinen met enorm grote steekproeven. Maar het onderzoek naar de smaak van neutrino die bij supernova's worden geproduceerd is lastig, er zijn niet heel veel supernova's. 
+Ook binnen de natuur- en sterrenkunde verschilt het nogal of je grote datasets kunt verkrijgen. In een experiment in de deeltjesfysica is het bijvoorbeeld relatief eenvoudig om een grote dataset te verkrijgen in een botsingsexperiment zoals op CERN en zo de onzekerheid op je test-statistiek te verkleinen met enorm grote steekproeven. Maar het onderzoek naar de smaak van neutrino's die bij supernova's worden geproduceerd is lastig, er zijn niet heel veel supernova's. 
 
-Het is dus altijd een afweging tussen het zo zeker mogelijk zijn van correctheid van het verwerpen van de nulhypothese, en de uitvoerbaarheid van het onderzoek.
+Het is dus altijd een afweging tussen het zo zeker mogelijk zijn van de correctheid van het verwerpen van de nulhypothese, en de uitvoerbaarheid van het onderzoek.
 
 ## p-Waarde bepalen
 
@@ -108,7 +108,7 @@ Er zijn verscheidene methodes voor het hypothese toetsen. In deze sectie behande
 Ook voor data met een andere distributie kan de p-waarde bepaald worden via de z-toets voor een Normale verdeling zolang de kansdichtheidsdistributie van de test-statistiek bekend is. 
 
 
-Afhankelijk van de manier waarop de nulhypothese en alternatieve hypothese opgesteld zijn, bepalen we de *eenzijdige overschrijdingskans* of de *tweezijdige overschrijdingskans*. Is de nulhypothese opgesteld met de formulering 'is gelijk aan' of 'is ongelijk aan', dan bepalen we de tweezijdige overschrijdingskans. Is de nulhypothese opgesteld met de formulering 'groter/kleiner dan' of 'groter/kleiner of gelijk aan' dan is het noodzakelijk om de eenzijdige overschrijdingskans te bepalen. Dus:
+Afhankelijk van de manier waarop de nulhypothese en de alternatieve hypothese opgesteld zijn, bepalen we de *eenzijdige overschrijdingskans* of de *tweezijdige overschrijdingskans*. Is de nulhypothese opgesteld met de formulering 'is gelijk aan' of 'is ongelijk aan', dan bepalen we de tweezijdige overschrijdingskans. Is de nulhypothese opgesteld met de formulering 'groter/kleiner dan' of 'groter/kleiner of gelijk aan' dan is het noodzakelijk om de eenzijdige overschrijdingskans te bepalen. Dus:
 
 |$$H_0$$ met | $$H_{\alpha}$$ met  |type overschrijding|
 |---|---|---|
@@ -168,14 +168,14 @@ Het is goed om te beseffen dat we **niet** kunnen zeggen dat onze alternatieve h
 
 > **Voorbeeld 2:** We onderzoeken de gemiddelde lengte van alle vrouwen ($$> 18$$ jaar) in Nederland, en stellen de volgende hypotheses op:
 >
-> - $$H_{\alpha}$$: De gemiddelde lengte van alle vrouwen boven de 18 jaar is hoger dan 180 cm.
-> - $$H_{0}$$: De gemiddelde lengte van alle vrouwen boven de 18 jaar is lager dan of gelijk aan 180 cm. 
+> - $$H_{0}$$: De gemiddelde lengte van alle vrouwen boven de 18 jaar is groter dan 180 cm.
+> - $$H_{\alpha}$$: De gemiddelde lengte van alle vrouwen boven de 18 jaar is kleiner dan of gelijk aan 180 cm. 
 >
 > Bij voorbaat kiezen we als significantieniveau $$\alpha=5\%$$.
 >
 > We meten de lengte van 500 Nederlandse vrouwen boven de 18 jaar. De resultaten volgen een Normale verdeling met gemiddelde $$\mu=165$$ cm en een standaardafwijking $$10$$ cm.
 >
-> De nulhypothese stelde dat de gemiddelde lengte van de Nederlandse vrouwen hoger is dan 180 cm. We bepalen dus de p-waarde die hierbij hoort:
+> De nulhypothese stelde dat de gemiddelde lengte van de Nederlandse vrouwen groter is dan 180 cm. We bepalen dus de p-waarde die hierbij hoort:
 >
 > $$\begin{aligned}P(X>180) &= 1-P(X<180) \\ &= 1-P(Z<\frac{180-165}{10})\\ &= 1-P(Z<1.5) \end{aligned}$$
 >

@@ -8,4 +8,4 @@ Daarna gaan we kijken naar de [kleinste kwadraten methode](/module-3/kleinste-kw
 
 
 We werken in de werkcolleges aan de opdrachten van deze module [M3](/opdrachten-module-3/opdrachten). Je vindt in het [schema](/informatie/inleveropdrachten) wanneer je aan welke opdrachten werkt en wanneer je deze moet inleveren.
-Vergeet ook niet te kijken naar het [oefenmateriaal](/tussentoets-iii/inhoud) voor de derde tussentoets. 
+Vergeet ook niet te kijken naar het [oefenmateriaal](/tussentoets-iii/inhoud) voor de deeltoets. 

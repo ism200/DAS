@@ -4,7 +4,7 @@
 1. Ordered TOC
 {:toc}
 
-We hebben in het hoofdstuk [De Centrale Limietstelling](/module-3/de-centrale-limietstelling) gezien waarom onzekerheden op metingen zo vaak Normaal zijn verdeeld. Het is nu duidelijk dat de Normaalverdeling een belangrijke rol speelt in statistiche methodes. In dit hoofdstuk bekijken we nogmaals de Normaalverdeling en introduceren we de zogeheten $$z$$-score methode die we later gaan toepassen bij de $$\chi^2$$-methode en bij het toetsen van hypotheses.
+We hebben in het hoofdstuk [De Centrale Limietstelling](/module-3/de-centrale-limietstelling) gezien waarom onzekerheden op metingen zo vaak Normaal zijn verdeeld. Het is nu duidelijk dat de Normaalverdeling een belangrijke rol speelt in statistische methodes. In dit hoofdstuk bekijken we nogmaals de Normaalverdeling en introduceren we de zogeheten $$z$$-score methode die we later gaan toepassen bij de $$\chi^2$$-methode en bij het toetsen van hypotheses.
 
 
 ## De Normaalverdeling
@@ -13,18 +13,18 @@ Allereerst herhalen we de formule die jullie ook al in Module 1 hebben gezien. D
 
 $${\Large \displaystyle f(x) = \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}\left( \frac{x-\mu}{\sigma} \right)^2} .}$$
 
-De functie heeft twee parameters, $$\mu$$ en $$\sigma$$. De verwachtingswaarde van de Normaalverdeling is precies $$\mu$$ en de standaardafwijking is precies gelijk aan $$\sigma$$. (De notering is niet toevallig!)
+De functie heeft twee parameters, $$\mu$$ en $$\sigma$$. De verwachtingswaarde van de Normaalverdeling is precies $$\mu$$ en de standaardafwijking is precies gelijk aan $$\sigma$$. (De notatie is niet toevallig!)
 
 In de figuur hieronder, <!--FIG \ref{fig:NormaleDistributie2},--> zie je enkele voorbeelden van de Normaalverdeling voor verschillende waardes voor $$\mu$$ en $$\sigma$$. 
 
 ![De Normaalverdeling.](NormaleDistributie2.png){:width="60%"}
 
-Er is geen relatie tussen de het gemiddelde $$\mu$$ en de standaardafwijking $$\sigma$$, lage waardes van $$\mu$$ kunnen een grotere of kleinere standaardafwijking hebben. (Anders dan bij de Poissonverdeling.) We zien dat voor hogere waardes voor $$\sigma$$ de datapunten meer verspreid zijn. 
+Er is geen relatie tussen het gemiddelde $$\mu$$ en de standaardafwijking $$\sigma$$, lage waardes van $$\mu$$ kunnen een grotere of kleinere standaardafwijking hebben. (Anders dan bij de Poissonverdeling.) We zien dat voor hogere waardes voor $$\sigma$$ de datapunten meer verspreid zijn. 
 
 > **Voorbeeld** 
 > Stel dat we een meting doen $$L$$ en we kennen het populatiegemiddelde $$\mu_L = 10.0$$ cm met een spreiding van $$\sigma_L = 2.0$$ cm. De kans dat we een meting doen die $$L=4.0$$ cm oplevert is dan niet zo groot. Als de spreiding rond het populatiegemiddelde daarentegen groter is, bijvoorbeeld $$\sigma=5.0$$ cm dan is de kans veel groter dat de meting een waarde van  $$L=4.0$$ cm oplevert. 
 
-Als de uitkomsten uit een experiment Normaal verdeeld zijn, en we kennen $$\mu$$ en $$\sigma$$, dan kunnen we de kans op een bepaalde uitkomst exact berekenen. Hoe grotere de afstand met $$\mu$$, hoe kleiner de kans op dat meetresultaat. Hoe groter de standaardafwijking $$\sigma$$, hoe meer verspreid de meetuitkomsten zijn en hoe groter de kans op een grotere afstand ten opzichte van het gemiddelde $$\mu$$. 
+Als de uitkomsten uit een experiment Normaal verdeeld zijn, en we kennen $$\mu$$ en $$\sigma$$, dan kunnen we de kans op een bepaalde uitkomst exact berekenen. Hoe groter de afstand tot $$\mu$$, hoe kleiner de kans op dat meetresultaat. Hoe groter de standaardafwijking $$\sigma$$, hoe meer verspreid de meetuitkomsten zijn en hoe groter de kans op een grotere afstand ten opzichte van het gemiddelde $$\mu$$. 
 Deze kansen kunnen we exact berekenen met behulp van de Normaalverdeling. 
 
 
@@ -53,7 +53,7 @@ Het oppervlak onder de Normaalkromme behorende bij de kans om een waarde $$x > X
 
 
 Het oppervlak onder de kromme van een Normaalverdeling is lastig uit te rekenen, zie bijvoorbeeld de uitleg op [wikipedia](https://en.wikipedia.org/wiki/Gaussian_integral). We maken hierom een tussenstap en berekenen eerst de 
-zo genoemde $$z$$-score. Stel een dataset is Normaal verdeeld met gemiddelde $$\mu$$ en standaardafwijking $$\sigma$$, de $$z$$-score, voor een bepaalde gemeten waarde $$X$$, is dan gelijk aan:
+zo genoemde $$z$$-score. Stel een dataset Normaal is verdeeld met gemiddelde $$\mu$$ en standaardafwijking $$\sigma$$, de $$z$$-score, voor een bepaalde gemeten waarde $$X$$, is dan gelijk aan:
 
 $$Z = \frac{X-\mu}{\sigma}.$$  
 
@@ -84,7 +84,7 @@ Hieronder laten we in twee voorbeelden zien hoe je deze methode toepast.
 >
 > $$P(x<16) = P\left(Z<\frac{X-\mu}{\sigma}\right) = 0.02275.$$
 >
-> Er is in dit geval dus een kans van 0.02 dat we bij de gegeven dataset een waarde onder de 15 zullen vinden.
+> Er is in dit geval dus een kans van 0.023 dat we bij de gegeven dataset een waarde onder de 16 zullen vinden.
 
 <br>
 

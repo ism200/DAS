@@ -7,7 +7,7 @@ Dit is een belangrijke observatie. Het geeft aan dat hoe groter de steekproef, h
 We bespreken hier twee wetten, de $$\sqrt{n}$$-wet en de wet van grote aantallen. De eerste wet zegt dat we een gemiddelde, onder bepaalde voorwaarden, steeds beter kennen als we meer datapunten meenemen. De tweede wet zegt dat het steekproef gemiddelde langzaam zal convergeren naar het gemiddelde van de populatie naarmate de steekproef steeds groter wordt.
 
 ## De $$\sqrt{n}$$-wet
-Stel dat we een grootheid willen bepalen die de som is van twee onafhankelijke variabelen die beide stochastisch verdeeld zijn. Dit betekent dat beide variabelen gemeten kunnen worden maar ook dat de waardes die we meten een onderliggende verdeling volgen die afhangt van een kans proces. We hebben hier dus twee onafhankelijke stochasten, die we $$X$$ en $$Y$$ noemen. De verwachtingswaarde van de som $$X+Y$$ is gelijk aan:
+Stel dat we een grootheid willen bepalen die de som is van twee onafhankelijke variabelen die beide stochastisch verdeeld zijn. Dit betekent dat beide variabelen gemeten kunnen worden maar ook dat de waardes die we meten een onderliggende verdeling volgen die afhangt van een kans proces. We hebben hier dus twee onafhankelijke stochasten, die we $$X$$ en $$Y$$ noemen. De verwachtingswaarde (E=Expectation) van de som $$X+Y$$ is gelijk aan:
 
 $$\displaystyle{ E(X+Y)= E(X)+E(Y) }.$$ 
 

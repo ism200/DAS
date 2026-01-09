@@ -62,7 +62,7 @@ We bekijken een aantal voorbeelden.
 
 
 > **Onzuiver: Een ongeijkte meetlat**
-> Je meet in een experiment de gemiddelde lengte van lucifers. Elke lucifer leg je langs een nauwkeurige liniaal en je noteert heel precies de lengte in millimeters. De meetlat zelf is helaas ongeijkt en 1 millimeter op de schaal van de meetlat is in werkelijkheid $$10\%$$ groter. Als we een lengte van 1.0 cm meten, dan is de daadwerkelijke lengte 1.1 cm. Hierdoor ontstaat er een vertekend beeld van de lengte van de lucifers. De verwachtingswaarde van het gemiddelde is dat die $$10\%$$ te klein zal uitvallen. De relatieve onzuiverheid zal dan ook precies $$-10\%$$ zijn. Als we de het gemeten gemiddelde kennen kunnen we deze omrekenen naar de absolute onzuiverheid $$b.$$
+> Je meet in een experiment de gemiddelde lengte van lucifers. Elke lucifer leg je langs een nauwkeurige liniaal en je noteert heel precies de lengte in millimeters. De meetlat zelf is helaas ongeijkt en 1 millimeter op de schaal van de meetlat is in werkelijkheid 10% groter. Als we een lengte van 1.0 cm meten, dan is de daadwerkelijke lengte 1.1 cm. Hierdoor ontstaat er een vertekend beeld van de lengte van de lucifers. De verwachtingswaarde van het gemiddelde is dat die 10% te klein zal uitvallen. De relatieve onzuiverheid zal dan ook precies $$-10$$% zijn. Als we het gemeten gemiddelde kennen kunnen we dit omrekenen naar de absolute onzuiverheid $$b.$$
 
  <br>
 

@@ -54,7 +54,7 @@ Door  het kwadraat te gebruiken en niet het absolute verschil tussen de datapunt
 >
 > De afstanden tussen de voorspelde waardes en de gemeten waardes zijn de ingrediënten van de kleinste kwadraten methode.
 
-In de meeste gevallen kunnen we het minimum van de $$\chi^2$$ analytisch vinden. Voor een  functie die afhangt van slechts één parameter $$a$$ dan kunnen we het minimum vinden op het punt dat de afgeleide gelijk is aan nul:<br>
+In eenvoudige gevallen kunnen we het minimum van de $$\chi^2$$ analytisch vinden. Voor een  functie die lineair afhangt van slechts één parameter $$a$$ kunnen we het minimum vinden op het punt dat de afgeleide gelijk is aan nul:<br>
 
 $${\displaystyle \frac{\partial \chi^2}{\partial a} =0.}$$
 

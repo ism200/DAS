@@ -37,7 +37,7 @@ De zuiverheid van een schatter wordt gedefinieerd als:
 
 $$b = E(\bar{x}) - \mu$$
 
-Waarbij $$b$$ de onzuiverheid ($$b$$=bias) is, $$E(\bar{x})$$ de verwachtingswaarde van de te schatten grootheid en $$\mu$$ het populatiegemiddelde van de te schatten grootheid. In het Engels noemen we deze afwijking de bias, vandaar de letter $$b.$$
+Waarbij $$b$$ de onzuiverheid is, $$E(\bar{x})$$ de verwachtingswaarde van de te schatten grootheid en $$\mu$$ het populatiegemiddelde van de te schatten grootheid. In het Engels noemen we deze afwijking de bias, vandaar de letter $$b.$$
 Voor het woord zuiverheid gebruiken we ook wel *vertekend*. 
 
 Een goede schatter is zuiver. Dat wil zeggen dat de verwachtingswaarde van de schatter gelijk is aan de populatiegrootheid.

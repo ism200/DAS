@@ -49,7 +49,7 @@ Bij gesimuleerde data kunnen we dit onderzoeken. We kunnen de verwachtingswaarde
 
 
  
-> Om de zuiverheid van ons experiment te bepalen gaan we dus de bepaalde halfwaardedikte te vergelijken met de initiële halfwaardedikte die gebruikt is om de data te simuleren. Roep hiervoor de volgende functie aan in de dataset generator:<br><br>
+> Om de zuiverheid van ons experiment te bepalen gaan we dus de bepaalde halfwaardedikte vergelijken met de initiële halfwaardedikte die gebruikt is om de data te simuleren. Roep hiervoor de volgende functie aan in de dataset generator:<br><br>
 >
 >	metingen, diktes, d_true = ds.DataSetHalfwaardeDikteVariatie(s,d_input)
 >

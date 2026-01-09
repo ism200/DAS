@@ -89,6 +89,6 @@ We bekijken een aantal voorbeelden.
 > 
 > Een andere methode is om te kijken naar de dichtheid van de botten. Hier zit een groot verschil in. De botten van de ene soort dino's hebben een veel grotere massadichtheid dan de andere. We kunnen door het volume op te meten en het massa van de botten het soortelijk gewicht bepalen. Het verschil in massadichtheid is veel groter dan de onzekerheid van de meting en ook zit er maar een heel kleine spreiding in de massadichtheid voor de verschillende exemplaren dino's van dezelfde soort. 
 > 
-> Dit tweede methode is heel omslachtig maar wel zeer efficiënt. Voor alle botten kun je uitsluitsel geven. Omdat er een alternatieve methode bestaat die beter is, noemen we de classificatie methode met behulp van kleur *niet efficiënt*.
+> De tweede methode is heel omslachtig maar wel zeer efficiënt. Voor alle botten kun je uitsluitsel geven. Omdat er een alternatieve methode bestaat die beter is, noemen we de classificatie methode met behulp van kleur *niet efficiënt*.
 
 

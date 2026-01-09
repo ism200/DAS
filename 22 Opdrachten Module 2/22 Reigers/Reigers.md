@@ -31,7 +31,7 @@ We gaan eerst naar de twee massaverdelingen van de reigers kijken.
 > - **M2.2b) Maak een tabel waarin je voor beide soorten reigers de gemiddeldes, de standaardafwijkingen en de varianties noteert.** Let goed op de notatie en denk ook even aan de eenheden.
 
 
-We meten nu de massa op van de reiger dat je gevonden hebt. Gebruik de volgende regel code om dat te doen: 
+We meten nu de massa op van de reiger die je gevonden hebt. Gebruik de volgende regel code om dat te doen: 
 
 		reiger_m_laag, reiger_m_hoog = ds.meetMassaReiger()
 		

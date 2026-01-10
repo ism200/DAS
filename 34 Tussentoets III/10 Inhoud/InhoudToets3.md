@@ -11,7 +11,7 @@ Weten (en dit consequent altijd toepassen) hoeveel significante cijfers je moet 
 
 #### [De centrale limietstelling](/module-3/de-centrale-limietstelling)
 
-* Begrijpen wat de centrale limietstelling betekend.
+* Begrijpen wat de centrale limietstelling betekent.
 
 #### [De Normaalverdeling](/module-3/normaalverdeling)
 
@@ -22,7 +22,7 @@ Weten (en dit consequent altijd toepassen) hoeveel significante cijfers je moet 
 
 * De Kleinste kwadraten methode kennen. 
 * Weten wat een schatter is.
-* De formule kennen en kunnen toepassen waarmee je de $$\chi^2$$ van een dataset berekend. 
+* De formule kennen en kunnen toepassen waarmee je de $$\chi^2$$ van een dataset berekent. 
 * Begrijpen hoe je de $$\chi^2$$ wiskundig kunt minimaliseren.
 
 

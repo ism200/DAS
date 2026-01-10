@@ -33,7 +33,7 @@ Maak voor deze opdracht een nieuw python bestand aan.
 >`events` - het aantal botsingen in de geselecteerde data in de massa bin<br>
 >`events_err` - de onzekerheid op het aantal events<br>
 >	
-> Zorg dat je de volgorde van de lists intact houdt zodat de juiste waarde van `m` bij de juiste waarde van `events` houdt.
+> Zorg dat je de volgorde van de lists intact houdt zodat je de juiste waarde van `m` bij de juiste waarde van `events` houdt.
 
 
 Het aantal *events* (aantal evenementen) is het geobserveerde aantal botsingen dat we in onze dataset hebben voor de specifieke massabin $$m$$. 	
@@ -43,7 +43,7 @@ $$\displaystyle f(m;N_0,c) = N_0 \cdot \left( \frac{1}{2} \right)^{m/c}$$
 
 De functie lijkt qua vorm op de functie voor de halfwaardedikte in de vorige opgave. 
 Deze functie heeft 3 parameters: $$m$$, $$N_0$$ en $$c$$. 
-De variable $$m$$ is, zoals hierboven beschreven de berekende massa van de resproducten die wordt uitgedrukt in proton massa's (pm).
+De variable $$m$$ is, zoals hierboven beschreven de berekende massa van de restproducten die wordt uitgedrukt in proton massa's (pm).
 De variabele $$N_0$$ en $$c$$ zijn parameters die de vorm van de exponentieel vallende curve bepalen. De parameter $$c$$ heeft de eenheid $$1/pm$$. 
 
 De massaverdeling van deeltje $$X$$ ziet er zo uit: 
@@ -79,10 +79,10 @@ we uit in het aantal proton massa's omdat het anders onhandig wordt met de eenhe
 > - **M4.1d) Wat is de $$\chi^2$$ en de $$\chi^2_\nu$$ voor deze fit?**
 >
 
-De massaverdeling van deeltje $$X$$ wordt beschreven met een Normaalverdeling. Als het deeltje $$X$$ bestaat, dan ligt deze Normaalverdeling als het ware op de achtergrond. We zullen een model moeten programmeren die de som is van de Normaalverdeling die het 'signaal' beschrijft en de achtergrond functie. 
+De massaverdeling van deeltje $$X$$ wordt beschreven met een Normaalverdeling. Als het deeltje $$X$$ bestaat, dan ligt deze Normaalverdeling als het ware op de achtergrond. We zullen een model moeten programmeren dat de som is van de Normaalverdeling die het 'signaal' beschrijft en de achtergrond functie. 
 We beginnen eerst met het opzetten van een functie die alleen de signaal component beschrijft. 
 
-> - De functie die de massaverdeling van het deeltje $$X$$ beschrijft is een Normaalverdeling. We kunnen hiervoor een eigen functie programmeren maar we kunnen ook gebruik maken van de standaard functies die het **`lmfit`** pakket bevat. Deze kunnen we aanroepen met:
+> - De functie die de massaverdeling van het deeltje $$X$$ beschrijft is een Normaalverdeling. We kunnen hiervoor een eigen functie programmeren maar we kunnen ook gebruik maken van de standaardfuncties die het **`lmfit`** pakket bevat. Deze kunnen we aanroepen met:
 > 
 > 			normaal_model = models.GaussianModel()
 > 
@@ -160,6 +160,6 @@ Waarbij we $$\Delta \chi^2$$ kunnen we omrekenen naar een p-waarde. Lees hierove
 >		    z_score = -stats.norm.ppf(p_waarde)
 >
 >  <br>
-> - **M4.1j) Denk je dat je de achtergrond hypothese kunt verwerpen? Zo ja, redeneer waarom. Zo nee, beredeneer waarom niet.**<br>
+> - **M4.1j) Denk je dat je de achtergrond hypothese kunt verwerpen? Zo ja, beredeneer waarom. Zo nee, beredeneer waarom niet.**<br>
 > **Tip:** Kijk nog even naar de afspraken die hierover zijn gemaakt in de deeltjesfysica.
 

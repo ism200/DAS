@@ -4,7 +4,7 @@
 1. Ordered TOC
 {:toc}
 
-In module 3 hebben we uitgelegd hoe het toetsen van een hypothese in zijn werk gaat. We hebben gezien dat er vier belangrijke stappen zijn. Eerst stellen we de hypothese op die we willen toetsen en ook de nulhypothese. Vervolgens is het belangrijk om een statistiek te vinden die gevoelig is voor de stelling. Met andere woorden, een statistiek waarmee we de hypothese kunnen toetsen. We kiezen vervolgens een significantieniveau ($$p$$-waarde) waarbij we $$H_0$$ of $$H_\alpha$$ kunnen verwerpen. Daarna meten we de p-waarde met behulp van een meting en bekijken we of we de $$H_0$$ stelling kunnen verwerpen. We hebben ook gezien wat de $$z$$-score betekent. 
+In module III hebben we uitgelegd hoe het toetsen van een hypothese in zijn werk gaat. We hebben gezien dat er vier belangrijke stappen zijn. Eerst stellen we de hypothese op die we willen toetsen en ook de nulhypothese. Vervolgens is het belangrijk om een statistiek te vinden die gevoelig is voor de stelling. Met andere woorden, een statistiek waarmee we de hypothese kunnen toetsen. We kiezen vervolgens een significantieniveau ($$p$$-waarde) waarbij we $$H_0$$ of $$H_\alpha$$ kunnen verwerpen. Daarna meten we de p-waarde met behulp van een meting en bekijken we of we de $$H_0$$ stelling kunnen verwerpen. We hebben ook gezien wat de $$z$$-score betekent. 
 
 In dit hoofdstuk leggen we nu een bijzondere vorm van hypothese toetsen uit waarbij we gebruik maken van de kleinste kwadraten methode en de daarbij berekende $$\chi^2$$. 
 

@@ -65,7 +65,7 @@ Bij een zekere stochast vinden we een p-waarde van 3% en we hebben een significa
 <br><br>
 
 
-**b.** Hoe veranderd je conclusie als je een significantielevel van 10% had gekozen of van 1%?
+**b.** Hoe verandert je conclusie als je een significantielevel van 10% had gekozen of van 1%?
 <br><br>
 
 
@@ -73,7 +73,7 @@ Bij een zekere stochast vinden we een p-waarde van 3% en we hebben een significa
 
 **9.** De productiechef bij een kleurpotlodenfabrikant heeft het vermoeden dat de zaagmachines niet meer zo goed werken. Als de gemiddelde lengte die wordt afgeleverd door de zaagmachines groter of gelijk is aan 177 mm dan zijn de machines aan vervanging toe.
 
-Bij de fabrikant zijn de afgelopen maand 30000 kleurpotloden geproduceert met een gemiddelde lengte van 176 mm en een standaardafwijking van 1 mm. <br><br>
+Bij de fabrikant zijn de afgelopen maand 30000 kleurpotloden geproduceerd met een gemiddelde lengte van 176 mm en een standaardafwijking van 1 mm. <br><br>
 
 **a.** Stel de alternatieve hypothese op behorende bij dit probleem
 <br><br>
@@ -98,6 +98,6 @@ Bij de fabrikant zijn de afgelopen maand 30000 kleurpotloden geproduceert met ee
 -----
 
 **10.**
-Een vliegtuig heeft op een bepaalde vlucht een gemiddeld brandstofverbruikt van 640 liter. Het brandstofverbruik is normaal verdeeld met een standaardafwijking van 15 liter. De eerste brandstoftank van het vliegtuig bevat 660 liter. Er is ook een reservetank. Bereken de kans dat het vliegtuig tijdens de vlucht brandstof uit de reservetank nodig heeft.
+Een vliegtuig heeft op een bepaalde vlucht een gemiddeld brandstofverbruik van 640 liter. Het brandstofverbruik is normaal verdeeld met een standaardafwijking van 15 liter. De eerste brandstoftank van het vliegtuig bevat 660 liter. Er is ook een reservetank. Bereken de kans dat het vliegtuig tijdens de vlucht brandstof uit de reservetank nodig heeft.
 <br><br>
 

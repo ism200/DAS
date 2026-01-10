@@ -109,7 +109,7 @@ Fit deze functie aan de datapunten, zorg dat de startwaardes zo worden ingesteld
 >
 > - **M3.2g) Presenteer de fitresultaten van de poly fit op het inlevertemplate.**<br><br>
 > 
-> - **M3.2h) Vergelijk nu de twee fits met elkaar. Bekijk de uitkomsten van de gefitte exponentiele functie met de gefitte polynoom. Welke functie beschrijft de data het beste? Op basis van welke variabelen trek je deze conclusie? Beargumenteer je antwoorden.** 
+> - **M3.2h) Vergelijk nu de twee fits met elkaar. Bekijk de uitkomsten van de gefitte exponentiële functie met de gefitte polynoom. Welke functie beschrijft de data het beste? Op basis van welke variabelen trek je deze conclusie? Beargumenteer je antwoorden.** 
 
 
 

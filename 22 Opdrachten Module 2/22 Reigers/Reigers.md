@@ -5,7 +5,7 @@ Je vindt helaas een dode reiger in de tuin bij de sloot. Het lijkt op een blauwe
 Er zijn [manieren](https://www.vogelbescherming.nl/beleefdelente/blog/lezen/reigers-in-soorten-en-maten) om blauwe en purperreigers te onderscheiden met behulp van uiterlijke kenmerken. Maar je bent een Natuurkundige en geen Bioloog. Online vind je een dataset met informatie over de massa en de spanwijdte van beide soorten reigers.
 
 
-Download het bestand [M2.2_Reigers.py](/Opdrachten%20Module%202/22%20Reigers/M2.2_Reigers.py) en zorg dat deze in dezelfde folder staat als het `DAS_DatasetGenerator.py` bestand. Je kan eventueel een nieuwe folder voor M2 aanmaken en hier een kopie van het `DAS_DatasetGenerator.py` bestand in plaatsen.
+Download het bestand [M2.2_Reigers.py](/22%20Opdrachten%20Module%202/22%20Reigers/M2.2_Reigers.py) en zorg dat deze in dezelfde folder staat als het `DAS_DatasetGenerator.py` bestand. Je kan eventueel een nieuwe folder voor M2 aanmaken en hier een kopie van het `DAS_DatasetGenerator.py` bestand in plaatsen.
 
 
 We genereren eerst twee datasets met behulp van de volgende regel code: 
